@@ -44,10 +44,11 @@ I ovenstående eksempel vil det derfor alene være teksten HELLO WORLD!, der vil
 
 ## Markup
 
-I dette afsnit skal vi se nærmere på seks semantiske HTML tags. Vi skal bruge de seks udvalgte tags i praksis, til at definere struktur for hello world applikationen. Før vi kan begynder at skriv markup, skal der oprettes en projektmappe og heri en index.html fil.
+I dette afsnit skal vi se nærmere på følgende seks semantiske HTML tags: Header, Nav, Main, Article, Section og Footer.  
+Vi skal bruge de seks udvalgte tags i praksis, til at definere struktur for hello world applikationen. Før vi kan begynder at skriv markup, skal der oprettes en projektmappe og heri en index.html fil.
 
 <p align="center">
-  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/VSCode.jpg" /><br>
 </p>
 
 Den første opgave består i at skrive den samme markup, som der
