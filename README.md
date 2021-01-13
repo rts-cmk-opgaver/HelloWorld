@@ -32,6 +32,9 @@ formålet. I dette eksempel vil det være tagget h1, som er en
 forkortelse af Heading 1, som I måske allerede kender fra for
 eksempel Microsoft Word.
 
+
+
+
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/HTMLTags.jpg" /><br>
 </p>
