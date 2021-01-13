@@ -32,8 +32,6 @@ formålet. I dette eksempel vil det være tagget h1, som er en
 forkortelse af Heading 1, som I måske allerede kender fra for
 eksempel Microsoft Word.
 
-------
-
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/HTMLTags.jpg" /><br>
 </p>
@@ -59,3 +57,11 @@ for Heading 1. Den overskrift som vi ønsker at vise i vores
 webapplikation, skal placeres imellem h1 elementets åben- og
 lukketag. Se grafik i umiddelbart herunder.
 
+# HTML element
+
+<p align="center">
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/HTMLElement.jpg" /><br>
+</p>
+
+Når et HTML element bliver renderet i browseren vises det
+indhold som er placeret imellem åben og lukke tagget.
