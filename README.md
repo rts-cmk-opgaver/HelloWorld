@@ -4,7 +4,7 @@ HTML og CSS introduktion Webudvikler grundforløb 2021
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/0_4ty0Adbdg4dsVBo3.png" /><br>
 </p>
 
-## FORMÅLET
+## Formål
 Formålet med opgaven Hello World! er helt enkelt at ”ramme skærmen”. Det betyder at vi skal arbejde med et HTML dokument i en kode editor og efterfølgende se vores HTML dokument renderet som en webapplikation i Browseren. I arbejdet med at ”ramme skærmen” vil I stifte bekendtskab med en kode editor og få en grundlæggende forståelse for helt fundamental webteknologi.  
 
 
