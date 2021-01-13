@@ -14,13 +14,11 @@ HTML eller Hyper Text Markup Language benyttes til at definere struktur på en h
 
 Et eksempel på et formål kunne endnu engang være webapplikationens overskrift. For at definere applikationens overskrift, skal vi bruge et specifikt HTML tag. Den semantiske navngivning af tags hjælper os med at finde det korrekte tag til formålet. I dette eksempel vil det være tagget h1, som er en forkortelse af Heading 1, som I måske allerede kender fra for eksempel Microsoft Word.  
 
-
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/HTMLTags.jpg" /><br>
 </p>
-  
-  
-  I dette afsnit skal vi se lidt nærmere på HTML tags. HTML tags har som regel både et åben(start)-tag og lukke(slut)- tag, med undtagelse af nogle få tags, som åbner og lukker i et og samme tag. Lad os tage et nærmere kig på hvordan det tidligere omtalte Heading 1(h1) tag er opbygget
+
+I dette afsnit skal vi se lidt nærmere på HTML tags. HTML tags har som regel både et åben(start)-tag og lukke(slut)- tag, med undtagelse af nogle få tags, som åbner og lukker i et og samme tag. Lad os tage et nærmere kig på hvordan det tidligere omtalte Heading 1(h1) tag er opbygget
 
 > NOTE: <!-- … --> Kommentar tagget bruges til at kommenterer kildekoden. Kommentar vises ikke i browseren!
 
