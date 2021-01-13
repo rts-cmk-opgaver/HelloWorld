@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/hello_world.jpg" /><br>
 </p>
-<span align="center">
+<span text-align="center">
   HTML og CSS introduktion<br>
   Webudvikler grundforløb<br>
   2021<br>
