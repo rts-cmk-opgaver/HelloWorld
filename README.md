@@ -64,7 +64,7 @@ Måden vi gør vores applikations userinterface mere indbydende, tilgængelige o
 
 ## Tags forklaring
 
-**Header** 
+**Header**. 
 elementet bruges til introducerende indhold, hvilket eksempelvis kan være en overskrift eller et logo. Elementet vil også kunne bruges som placering for eksempelvis en søge- eller loginformular, navigation etc.
 
 **Nav** elementet bruges hovedsageligt til at præsenterer applikationens navigations som kan bestå af både interne og eksterne links.
