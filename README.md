@@ -53,3 +53,25 @@ I dette afsnit skal vi se nærmere på seks semantiske HTML tags. Vi skal bruge 
 Den første opgave består i at skrive den samme markup, som der
 ses på skærmbilledet herover. Vær omhyggelig, syntaksen er vigtig og selv den mindste tastefejl, kan betyde at applikationen ikke
 renderes som det forventes. Indryk mellem tags er vigtig for dokumentets læsbarhed og ’debug-og-samarbejds-venlighed’ og er derfor en helt essentiel del af arbejdet med at skrive kode. Når i er færdige med at skrive ovenstående markup, er det tid til at eksekverer dokumentet i browseren.
+
+<p align="center">
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+</p>
+
+Måden vi gør vores applikations userinterface mere indbydende, tilgængelige og fleksibel på, er ved at tilføje et præsentations lag. Det kommer vi nærmere ind på, men først en forklaring af de seks tag, som vi skal arbejde med.
+
+> NOTE: Vi benytter HTML til struktur, CSS til præsentation og JavaScript til interaktion i vores applikationer!
+
+## Tags forklaring
+
+**Header** elementet bruges til introducerende indhold, hvilket eksempelvis kan være en overskrift eller et logo. Elementet vil også kunne bruges som placering for eksempelvis en søge- eller loginformular, navigation etc.
+
+**Nav** elementet bruges hovedsageligt til at præsenterer applikationens navigations som kan bestå af både interne og eksterne links.
+
+**Main** elementet bruges til at præsenterer indhold som relaterer sig direkte til applikationens centrale emne eller funktionalitet.
+
+**Article** elementet bruges til at præsenterer selvstændigt indhold som vil kunne genanvendes i andre sammenhæng hvilket eksempelvis kunne være; en blog post, en artikel eller en nyheds historie.
+
+**Section** elementet bruges til at repræsenterer fritstående indhold som ikke kan repræsenteres af et mere specifikt semantisk element.
+
+**Footer** elementet bruges som ofte til at præsenterer information omkring applikationens ophavsmænd, copyright information eller links til relevant information.
