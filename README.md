@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/hello_world.jpg" /><br>
 </p>
-<h2 align="center">
+<span align="center">
   HTML og CSS introduktion<br>
   Webudvikler grundforløb<br>
   2021<br>
-<h2>
+</span>
 
 ## FORMÅLET
 Formålet med opgaven Hello World! er helt enkelt at ”ramme
