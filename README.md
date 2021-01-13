@@ -22,7 +22,7 @@ HTML består af flere forskellige semantiske tags. Hver enkelt tag
 repræsenter et specifikt formål, taggets navn beskriver tydeligt for
 både udvikler og browser hvilket formål der er talt om.
 
-> FAKTA: Når vi skriver semantisk markup, bruger vi HTML-tags til at fortælle browseren om elementernes indhold!
+> NOTE: Når vi skriver semantisk markup, bruger vi HTML-tags til at fortælle browseren om elementernes indhold!
 
 Et eksempel på et formål kunne endnu engang være
 webapplikationens overskrift. For at definere applikationens
@@ -31,3 +31,4 @@ navngivning af tags hjælper os med at finde det korrekte tag til
 formålet. I dette eksempel vil det være tagget h1, som er en
 forkortelse af Heading 1, som I måske allerede kender fra for
 eksempel Microsoft Word.
+
