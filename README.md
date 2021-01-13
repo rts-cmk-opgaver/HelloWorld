@@ -45,7 +45,7 @@ Heading 1(h1) tag er opbygget
 
 > NOTE: <!-- … --> Kommentar tagget bruges til at kommenterer kildekoden. Kommentar vises ikke i browseren!
 
-# HTML Heading 1 tag
+## HTML Heading 1 tag
 
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/Heading.jpg" /><br>
@@ -57,7 +57,7 @@ for Heading 1. Den overskrift som vi ønsker at vise i vores
 webapplikation, skal placeres imellem h1 elementets åben- og
 lukketag. Se grafik i umiddelbart herunder.
 
-# HTML element
+## HTML element
 
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/HTMLElement.jpg" /><br>
