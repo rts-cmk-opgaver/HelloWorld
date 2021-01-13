@@ -1,13 +1,9 @@
 # Hello World!
+HTML og CSS introduktion Webudvikler grundforløb 2021
 
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/hello_world.jpg" /><br>
 </p>
-<span text-align="center">
-  HTML og CSS introduktion<br>
-  Webudvikler grundforløb<br>
-  2021<br>
-</span>
 
 ## FORMÅLET
 Formålet med opgaven Hello World! er helt enkelt at ”ramme
