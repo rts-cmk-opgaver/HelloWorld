@@ -46,3 +46,16 @@ Lad os tage et nærmere kig på hvordan det tidligere omtalte
 Heading 1(h1) tag er opbygget
 
 > NOTE: <!-- … --> Kommentar tagget bruges til at kommenterer kildekoden. Kommentar vises ikke i browseren!
+
+# HTML Heading 1 tag
+
+<p align="center">
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/Heading.jpg" /><br>
+</p>
+
+Karakteren imellem mindre end tegnet og større end tegnet
+indikerer taggets formål. I eksemplet oven for er h1 en forkortelse
+for Heading 1. Den overskrift som vi ønsker at vise i vores
+webapplikation, skal placeres imellem h1 elementets åben- og
+lukketag. Se grafik i umiddelbart herunder.
+
