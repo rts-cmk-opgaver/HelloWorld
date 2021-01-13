@@ -67,12 +67,17 @@ Måden vi gør vores applikations userinterface mere indbydende, tilgængelige o
 **Header**   
 elementet bruges til introducerende indhold, hvilket eksempelvis kan være en overskrift eller et logo. Elementet vil også kunne bruges som placering for eksempelvis en søge- eller loginformular, navigation etc.
 
-**Nav** elementet bruges hovedsageligt til at præsenterer applikationens navigations som kan bestå af både interne og eksterne links.
+**Nav**   
+elementet bruges hovedsageligt til at præsenterer applikationens navigations som kan bestå af både interne og eksterne links.
 
-**Main** elementet bruges til at præsenterer indhold som relaterer sig direkte til applikationens centrale emne eller funktionalitet.
+**Main**   
+elementet bruges til at præsenterer indhold som relaterer sig direkte til applikationens centrale emne eller funktionalitet.
 
-**Article** elementet bruges til at præsenterer selvstændigt indhold som vil kunne genanvendes i andre sammenhæng hvilket eksempelvis kunne være; en blog post, en artikel eller en nyheds historie.
+**Article**   
+elementet bruges til at præsenterer selvstændigt indhold som vil kunne genanvendes i andre sammenhæng hvilket eksempelvis kunne være; en blog post, en artikel eller en nyheds historie.
 
-**Section** elementet bruges til at repræsenterer fritstående indhold som ikke kan repræsenteres af et mere specifikt semantisk element.
+**Section**   
+elementet bruges til at repræsenterer fritstående indhold som ikke kan repræsenteres af et mere specifikt semantisk element.
 
-**Footer** elementet bruges som ofte til at præsenterer information omkring applikationens ophavsmænd, copyright information eller links til relevant information.
+**Footer**   
+elementet bruges som ofte til at præsenterer information omkring applikationens ophavsmænd, copyright information eller links til relevant information.
