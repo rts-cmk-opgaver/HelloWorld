@@ -103,8 +103,7 @@ En CSS regel anvender en **selektor** som indikation for hvilket HTML element de
 
 ## CSS regler i praksis
 
-For at opnå det ønskede layout, skal der definere CSS regler for flere af de HTML elementer vores applikations markup består af. Prøv at definere css reglerne fra skærmbilledet en af gangen. Test applikationen i Browseren for hver gang du har defineret en ny regel. På den måde undgår vi at skulle fejlfinde et
-helt stylesheet, fordi vi er klar over hvilken CSS regel vi aktuelt arbejder på, hvis noget mod forventning ikke skulle virke.  
+For at opnå det ønskede layout, skal der definere CSS regler for flere af de HTML elementer vores applikations markup består af. Prøv at definere css reglerne fra skærmbilledet umiddelbart herunder en af gangen. Test applikationen i Browseren for hver gang du har defineret en ny regel. På den måde undgår vi at skulle fejlfinde et helt stylesheet, fordi vi er klar over hvilken CSS regel vi aktuelt arbejder på, hvis noget mod forventning ikke skulle virke.  
 
 Happy Hacking!
 
