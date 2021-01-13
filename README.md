@@ -56,7 +56,7 @@ ses på skærmbilledet herover. Vær omhyggelig, syntaksen er vigtig og selv den
 renderes som det forventes. Indryk mellem tags er vigtig for dokumentets læsbarhed og ’debug-og-samarbejds-venlighed’ og er derfor en helt essentiel del af arbejdet med at skrive kode. Når i er færdige med at skrive ovenstående markup, er det tid til at eksekverer dokumentet i browseren.
 
 <p align="center">
-  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/WhatWeWant.jpg" /><br>
 </p>
 
 Måden vi gør vores applikations userinterface mere indbydende, tilgængelige og fleksibel på, er ved at tilføje et præsentations lag. Det kommer vi nærmere ind på, men først en forklaring af de seks tag, som vi skal arbejde med.
@@ -88,7 +88,7 @@ elementet bruges som ofte til at præsenterer information omkring applikationens
 CSS eller Cascading Style Sheets bruges til at definere hvordan et HTML dokument skal præsenteres i browseren. Start med at oprette en style.css fil og placerer den i roden af projektmappen. Når css filen er oprettet skal den linkes til vores index dokument. Dette foregår i filen index.html. Se nedenstående eksempel linie 9.
 
 <p align="center">
-  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/Index.jpg" /><br>
 </p>
 
 Link tagget definerer et link imellem det aktuelle HTML dokument og en eksterne ressource. I dette tilfælde er denne eksterne ressource vores stylesheet. Når vi bruger CSS til at ændre udseende på vores HTML elementer, gør vi det ved at definerer regler for hvordan HTML elementet skal præsenteres. I eksemplet herunder fremgår det hvordan en css-regel defineres.
@@ -96,7 +96,7 @@ Link tagget definerer et link imellem det aktuelle HTML dokument og en eksterne 
 ## CSS-Regel eksempel
 
 <p align="center">
-  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/Css-regel.jpg" /><br>
 </p>
 
 En CSS regel anvender en selektor som indikation for hvilket HTML element der skal tilføjes style til. I eksemplet herover defineres en regel for alle img tags i HTML dokumentet. I deklarationen er angivet en egenskab for width med en værdi på 100%. Det betyder, at alle billeder skal vises med en bredde på 100% af det element, de er placeret i.
@@ -107,6 +107,6 @@ For at opnå det ønskede layout, skal der definere CSS regler for flere af de H
 helt stylesheet, fordi vi er klar over hvilken CSS regel vi er kommet til, hvis noget mod forventning ikke skulle virke. Happy Hacking!
 
 <p align="center">
-  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/Stylesheet.jpg" /><br>
 </p>
 
