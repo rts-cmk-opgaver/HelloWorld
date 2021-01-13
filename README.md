@@ -81,3 +81,13 @@ elementet bruges til at repræsenterer fritstående indhold som ikke kan repræs
 
 **Footer**   
 elementet bruges som ofte til at præsenterer information omkring applikationens ophavsmænd, copyright information eller links til relevant information.
+
+## Layout
+
+CSS eller Cascading Style Sheets bruges til at definere hvordan et HTML dokument skal præsenteres i browseren. Start med at oprette en style.css fil og placerer den i roden af projektmappen. Når css filen er oprettet skal den linkes til vores index dokument. Dette foregår i filen index.html. Se nedenstående eksempel linie 9.
+
+<p align="center">
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+</p>
+
+Link tagget definerer et link imellem det aktuelle HTML dokument og en eksterne ressource. I dette tilfælde er denne eksterne ressource vores stylesheet. Når vi bruger CSS til at ændre udseende på vores HTML elementer, gør vi det ved at definerer regler for hvordan HTML elementet skal præsenteres. I eksemplet herunder fremgår det hvordan en css-regel defineres.
