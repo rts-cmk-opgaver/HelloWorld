@@ -37,3 +37,12 @@ eksempel Microsoft Word.
 <p align="center">
   <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/HTMLTags.jpg" /><br>
 </p>
+
+I dette afsnit skal vi se lidt nærmere på HTML tags.
+HTML tags har som regel både et åben(start)-tag og lukke(slut)-
+tag, med undtagelse af nogle få tags, som åbner og lukker i et og
+samme tag.
+Lad os tage et nærmere kig på hvordan det tidligere omtalte
+Heading 1(h1) tag er opbygget
+
+> NOTE: <!-- … --> Kommentar tagget bruges til at kommenterer kildekoden. Kommentar vises ikke i browseren!
