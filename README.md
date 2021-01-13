@@ -91,3 +91,21 @@ CSS eller Cascading Style Sheets bruges til at definere hvordan et HTML dokument
 </p>
 
 Link tagget definerer et link imellem det aktuelle HTML dokument og en eksterne ressource. I dette tilfælde er denne eksterne ressource vores stylesheet. Når vi bruger CSS til at ændre udseende på vores HTML elementer, gør vi det ved at definerer regler for hvordan HTML elementet skal præsenteres. I eksemplet herunder fremgår det hvordan en css-regel defineres.
+
+## CSS-Regel eksempel
+
+<p align="center">
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+</p>
+
+En CSS regel anvender en selektor som indikation for hvilket HTML element der skal tilføjes style til. I eksemplet herover defineres en regel for alle img tags i HTML dokumentet. I deklarationen er angivet en egenskab for width med en værdi på 100%. Det betyder, at alle billeder skal vises med en bredde på 100% af det element, de er placeret i.
+
+## CSS regler i praksis
+
+For at opnå det ønskede layout, skal der definere CSS regler for flere af de HTML elementer vores applikations markup består af. Prøv at definere css reglerne fra skærmbilledet (se næste side) en af gangen. Test applikationen i browseren for hver gang du har defineret en ny regel. På den måde undgår vi at skulle fejlfinde et
+helt stylesheet, fordi vi er klar over hvilken CSS regel vi er kommet til, hvis noget mod forventning ikke skulle virke. Happy Hacking!
+
+<p align="center">
+  <img src="https://github.com/rts-cmk-opgaver/HelloWorld/blob/main/Media/sas.jpg" /><br>
+</p>
+
