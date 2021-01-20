@@ -65,6 +65,7 @@ Måden vi gør vores applikations userinterface mere indbydende, tilgængeligt o
 > NOTE: Vi benytter HTML til struktur, CSS til præsentation og JavaScript til interaktion i vores applikationer!
 
 ## Tags forklaring
+***Mange tags er designet til specifikke typer af indhold eller bruges i en specifik kontekts. Disse tags kaldes specifikke tags***
 
 **Header**   
 Elementet bruges til introducerende indhold, hvilket eksempelvis kan være en overskrift eller et logo. Elementet vil også kunne bruges som placering for eksempelvis en søge- eller loginformular, navigation etc.
